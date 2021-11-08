@@ -51,8 +51,8 @@ print(number)
 Vs Code dan Output
 ![p19](https://user-images.githubusercontent.com/92987122/140723914-0d82c32b-bfaf-4b29-912a-b7438e60eea4.png)
 
-
 4. Menjumlahkan Lis
+
 Souce Code
 
 numbers = [5,6,7,8,1]
@@ -69,6 +69,7 @@ Vs Code dan Output
 ![p20](https://user-images.githubusercontent.com/92987122/140724083-359f1dc9-0d21-4ce5-b1e5-9c4468d02f80.png)
 
 5. Mencari Angka Max
+
 Souce Code
 
 numbers = [5,6,7,8,1]
